@@ -2,6 +2,7 @@ package com.surya;
 
 import java.util.Date;
 
+//enity class
 public class Manager {
 
 	//indtance var
@@ -21,6 +22,7 @@ public class Manager {
 	public String getUser_name() {
 		return User_name;
 	}
+	
 
 	public void setUser_name(String user_name) {
 		User_name = user_name;
